@@ -11,8 +11,8 @@ District of Columbia,1.635
 Florida,1.685
 Georgia,1.655
 Hawaii,1.58
-Iowa,3.245
-Idaho,3.135
+Iowa,0
+Idaho,0
 Illinois,1.695
 Indiana,2.07
 Kansas,1.6
@@ -20,14 +20,14 @@ Kentucky,1.57
 Louisiana,1.53
 Massachusetts,1.69
 Maryland,1.715
-Maine,3.555
+Maine,0
 Michigan,1.535
 Minnesota,1.77
 Missouri,1.67
-Mississippi,3.315
+Mississippi,0
 Montana,1.68
 North Carolina,1.35
-North Dakota,3.485
+North Dakota,0
 Nebraska,2.885
 New Hampshire,1.775
 New Jersey,1.82
@@ -41,7 +41,7 @@ Pennsylvania,1.77
 Rhode Island,1.65
 South Carolina,1.615
 South Dakota,1.49
-Tennessee,3.045
+Tennessee,0
 Texas,1.705
 Utah,1.62
 Virginia,1.72
