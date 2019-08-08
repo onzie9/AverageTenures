@@ -5,10 +5,10 @@ from collections import Counter
 def weird_division(n, d):
     return n / d if d else 0
 
-nums1 = [4, .5, 1, 3, 2, 10, 9, 5, 7, 6, 8]
-nums2 = [4, .5, 1, 3, 2, 20, 9, 5, 7, 6, 8]
+nums1 = [4, .5, 1, 3, 2, 10, 9, 5, 7, 6, 8] # These are the lengths of the tenures aligned to how the data are stored.
+nums2 = [4, .5, 1, 3, 2, 20, 9, 5, 7, 6, 8] # nums1 uses 10 years for ">10" and nums2 uses 20.
 
-df1 = pd.read_csv('RejectStatsA.csv')
+df1 = pd.read_csv('RejectStatsA.csv') # Files directly from LC.
 df = pd.read_csv('LoanStats3a.csv')
 
 states = df1.State
